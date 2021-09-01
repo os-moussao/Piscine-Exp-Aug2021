@@ -1,0 +1,27 @@
+NAME = bsq
+
+SRCS = src/main.c src/ft_bsq.c src/ft_map_utils.c src/utils.c
+
+OBJS := $(SRCS:.c=.o)
+
+INCLUDE = include
+
+CFLAGS = -Wall -Wextra -Werror
+
+.PHONY: all clean fclean re
+
+all: $(NAME)
+
+$(NAME): $(OBJS)
+	gcc $(CFLAGS) $^ -o $@
+
+%.o: %.c
+	gcc $(CFLAGS) -c $< -I$(INCLUDE) -o $@
+
+clean:
+	rm -f $(OBJS)
+
+fclean: clean
+	rm -f $(NAME)
+
+re: fclean all

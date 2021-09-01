@@ -1,0 +1,5 @@
+Credentials cache: API:E7A4F074-78B3-45D0-8CC7-8A9A395079E8
+        Principal: omoussao@1337.MA
+
+  Issued                Expires               Principal
+Aug  3 19:20:14 2021  Aug  4 05:19:59 2021  krbtgt/1337.MA@1337.MA
