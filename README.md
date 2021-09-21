@@ -6,8 +6,10 @@ In this repository, I shared everything I have done during the 28 days of 1337 p
 ## Things to consider
 - **The 10 Queens Puzzle**
 
-The code I pushed during my piscine, although it was correct, yet I still believe that it's not a good way of solving this problem.
-Because, when reaching a deadend or a solution, I kept calling the function backwards rather than letting it go back to its previous call stacks (if that make sense :slightly_smiling_face:). Thus, I nedded to know the number of solutions beforehand if I want the function to quit.
+The code I pushed during my piscine, although it was correct, yet I still believe that it's not a good way of solving this problem.  
+  
+Because, when reaching a deadend or a solution, I kept calling the function backwards rather than letting it go back to its previous call stacks (if that make sense :slightly_smiling_face:). Thus, I nedded to know the number of solutions beforehand if I want the function to quit.  
+  
 Here is another simpler solution to this problem: [the n queens](https://github.com/os-moussao/algorithms-and-data-structures/blob/master/Backtracking/01%20The%20N%20Queens/the_n_queens_puzzle.c)
 - **BSQ**
 
