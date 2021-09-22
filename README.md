@@ -1,4 +1,4 @@
-# Welcome to Piscine-Exp-Aug2021!
+# Welcome to Piscine Experience August 2021!
 ![HOLY GRAPH](https://github.com/os-moussao/Piscine-Exp-Aug2021/blob/main/Holy%20Graph.png?raw=true)
 
 In this repository, I shared everything I have done during the 28 days of 1337 piscine.
