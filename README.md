@@ -23,4 +23,4 @@ You can take some ideas from what we've done. And, you can also check our friend
 ![Scores img.](https://github.com/os-moussao/Piscine-Exp-Aug2021/blob/main/Scores.png?raw=true)
 
 # Contact
-[@OusamaMoussaoui](https://twitter.com/OusamaMoussaoui)
+[@OusamaMoussaoui](https://twitter.com/OusamaMoussaoui){:target="_blank"}
