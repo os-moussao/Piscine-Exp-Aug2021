@@ -1,0 +1,2 @@
+This is the same algorithms as ft_rrange (level 03/1-ft_rrange), just in reverse order
+So try to reverse engineer ft_rrange and create your own solution for this one

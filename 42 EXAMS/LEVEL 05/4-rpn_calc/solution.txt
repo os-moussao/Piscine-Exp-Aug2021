@@ -1,0 +1,7 @@
+I have not solved this exercise yet
+
+This geeksforgeeks article might help you if you're serious about solving this problem:
+https://www.geeksforgeeks.org/evaluate-the-value-of-an-arithmetic-expression-in-reverse-polish-notation-in-java/
+You can also find more explanations online, it is a classic
+
+(between you and I: this problem was given as the last exercise of the final exam to some students in my piscine)

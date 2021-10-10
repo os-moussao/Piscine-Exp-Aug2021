@@ -1,0 +1,13 @@
+All exam quesions in one place (if you don't want to bother with open/close .txt files every time):
+http://nigal.freeshell.org/42/exam-review.php
+
+Exam solutions (it's always better to have access to multiple solutions):
+http://nigal.freeshell.org/42/exam-solutions/
+
+Fun fact:
+Respecting norminette rules is not required in the exams...
+yeah, it's fun because I respected the norm in every exam, and I didn't know untill the last second of the final exam
+fortunately, I was damn used to it, but it certainly stressed me out in my very last submition,
+as I had to fix tons of norminette errors in just 2 minutes (norminette be like: I will end this man's career)
+thank god I fixed them all in 1m50s, pushed the exercise in the last 10 seconds, and... failure hhhhhhhhhhhhhahahahaha
+result: 84

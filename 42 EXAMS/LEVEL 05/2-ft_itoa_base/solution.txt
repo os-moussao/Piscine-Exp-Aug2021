@@ -1,0 +1,3 @@
+See: the ft_convert_base exercice in C/C07/ex04
+The itoa_base function was a mandatory part of this exercice
+so you'll find it there
