@@ -6,7 +6,7 @@
 /*   By: os-moussao <omoussao@student.1337.ma>      +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2021/10/10 14:18:14 by os-moussao        #+#    #+#             */
-/*   Updated: 2021/10/10 14:18:15 by os-moussao       ###   ########.fr       */
+/*   Updated: 2021/10/10 16:28:57 by os-moussao       ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -16,11 +16,6 @@ void	print_rev(char *str)
 {
 	if (*str == '\0')
 		return ;
-	if (*(str + 1) == '\0')
-	{
-		write(1, str, 1);
-		return ;
-	}
 	print_rev(str + 1);
 	write(1, str, 1);
 }
