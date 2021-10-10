@@ -1,5 +1,5 @@
 # Welcome to Piscine Experience August 2021!
-![HOLY GRAPH](RANDOM/README\ CONTENT/Holy%20Graph.png?raw=true)
+![HOLY GRAPH](RANDOM/README%20CONTENT/Holy%20Graph.png?raw=true)
 
 In this repository, I shared everything I have done during the 28 days of 1337 piscine.
 
@@ -28,7 +28,7 @@ Me and [@awbx](https://github.com/awbx) have worked on the bsq project, all func
 You can take some ideas from what we've done. And, you can also check our friends [@Redimber](https://github.com/Redimber) and [@XMoulinette](https://github.com/XMoulinette)'s [BSQ](https://github.com/XMoulinette/BSQ_100) with a 100% success score.
 
 # My Scores
-![Scores img.](/RANDOM/README\ CONTENT/Scores.png?raw=true)
+![Scores img.](/RANDOM/README%20CONTENT/Scores.png?raw=true)
 
 # Contact
 [@OusamaMoussaoui](https://twitter.com/OusamaMoussaoui)
