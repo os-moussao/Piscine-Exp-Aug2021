@@ -31,4 +31,4 @@ You can take some ideas from what we've done. And, you can also check our friend
 ![Scores img.](/RANDOM/README%20CONTENT/Scores.png?raw=true)
 
 # Contact
-[@OusamaMoussaoui](https://twitter.com/OusamaMoussaoui)
+[@osmoussao](https://twitter.com/osmoussao)
