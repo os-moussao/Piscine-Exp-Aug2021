@@ -19,7 +19,7 @@
 **/
 #include <unistd.h>
 
-void	show_comma(char stack[], int index, int n)
+void	show_comma(char stack[], int n)
 {
     int	  i = 10 - n;
 
@@ -34,7 +34,7 @@ void	backtrack(char stack[], int index, int start, int n)
 {
     if (index == n) {
         write(1, buf, n);
-        show_comma(buf, index);
+        show_comma(buf, n);
         return;
     }
     while (start <= '9') {
