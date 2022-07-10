@@ -33,8 +33,8 @@ void	show_comma(char stack[], int index, int n)
 void	backtrack(char stack[], int index, int start, int n)
 {
     if (index == n) {
-        show_comma(stack, index, n);
-        write(1, stack, n);
+        write(1, buf, n);
+        show_comma(buf, index);
         return;
     }
     while (start <= '9') {
