@@ -17,33 +17,35 @@
  * I used backtracking, which - in this case -  acts like multiple nested loops
  * norminette: OK!
 **/
-
 #include <unistd.h>
 
-int	g_total = 0;
+void	show_comma(char stack[], int index, int n)
+{
+    int	  i = 10 - n;
+
+    for (int j = 0; j <= n; j++)
+        if (stack[j] - '0' != i++) {
+            write(1, ", ", 2);
+            return;
+        }
+}
 
 void	backtrack(char stack[], int index, int start, int n)
 {
-	if (index == n)
-	{
-		if (g_total)
-			write(1, ", ", 2);
-		write(1, stack, n);
-		g_total++;
-		return ;
-	}
-	while (start <= '9')
-	{
-		stack[index] = start;
-		backtrack(stack, index + 1, start + 1, n);
-		start++;
-	}
+    if (index == n) {
+        show_comma(stack, index, n);
+        write(1, stack, n);
+        return;
+    }
+    while (start <= '9') {
+        stack[index] = start;
+        backtrack(stack, index + 1, ++start, n);
+    }
 }
 
 void	ft_print_combn(int n)
 {
-	char	stack[10];
+    char    stack[10];
 
-	g_total = 0;
-	backtrack(stack, 0, '0', n);
+    backtrack(stack, 0, '0', n);
 }
