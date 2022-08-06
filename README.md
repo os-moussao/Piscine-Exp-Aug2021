@@ -25,7 +25,7 @@ Here is another simpler solution to this problem: [the n queens](https://github.
 
 Me and [@awbx](https://github.com/awbx) have worked on the bsq project, all functional tests succeeded, but we got a SEGABORT in the basic test. Therefore, we failed this project with a 50% score.  
   
-You can take some ideas from what we've done. Or, you may also want to check our friends [@Redimber](https://github.com/Redimber) and [@XMoulinette](https://github.com/XMoulinette)'s [BSQ](https://github.com/XMoulinette/BSQ_100) with a 100% success score.
+You can take some ideas from what we've done. Or, you may also want to check our friends [@Redimber](https://github.com/ceciver) and [@XMoulinette](https://github.com/XMoulinette)'s [BSQ](https://github.com/XMoulinette/BSQ_100) with a 100% success score.
 
 # My Scores
 ![Scores img.](/RANDOM/README%20CONTENT/Scores.png?raw=true)
